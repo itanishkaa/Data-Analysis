@@ -12,6 +12,7 @@ This repository contains multiple data analysis projects focused on diverse topi
 `Covid_19_Impacts_Analysis.ipynb`: A Jupyter notebook that performs data analysis on the societal and economic impacts of the COVID-19 pandemic.
 
 `data/`: Contains the datasets used in the analysis.
+
     `raw_data.csv`: The original, unprocessed data related to COVID-19 impacts.
     `transformed_data.csv`: Cleaned and processed data ready for analysis and visualizations.
 
