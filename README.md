@@ -13,9 +13,9 @@ This repository contains multiple data analysis projects focused on diverse topi
 
 `data/`: Contains the datasets used in the analysis.
 
-    `raw_data.csv`: The original, unprocessed data related to COVID-19 impacts.
+    raw_data.csv: The original, unprocessed data related to COVID-19 impacts.
     
-    `transformed_data.csv`: Cleaned and processed data ready for analysis and visualizations.
+    transformed_data.csv: Cleaned and processed data ready for analysis and visualizations.
 
 **2. IPL 2022 Analysis**
 
